@@ -101,9 +101,12 @@ html_static_path = ['_static']
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
+html_logo = "pics/eso_python.png"
+
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'ESO_chile_python_teamdoc'
+
 
 
 # -- Options for LaTeX output ------------------------------------------------
