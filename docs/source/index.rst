@@ -20,11 +20,11 @@ This repository will display the programs of the pyCoffee sessions held at ESO c
 find the material for each session (if any material is given by the person presenting). You can also find the
 material of the ESOpy workshop.
 
-This repository is not officially endorsed by ESO.
-
 
 Team
 ====
-The team is composed of fellow, staff and student from ESO-Chile.
-
+The team is composed of fellows, staffs and students from ESO-Chile.
 R. Thomas, P. Sanchez, A. Razza, P. Figueiro
+
+.. warning::
+    This page is not supported nor endorsed by ESO. It is made from ESO people and for ESO people.

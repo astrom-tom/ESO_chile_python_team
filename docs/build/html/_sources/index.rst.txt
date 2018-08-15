@@ -23,6 +23,8 @@ material of the ESOpy workshop.
 
 Team
 ====
-The team is composed of fellow, staff and student from ESO-Chile.
-
+The team is composed of fellows, staffs and students from ESO-Chile.
 R. Thomas, P. Sanchez, A. Razza, P. Figueiro
+
+.. warning::
+    This page is not supported nor endorsed by ESO. It is made from ESO people and for ESO people.
