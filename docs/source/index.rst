@@ -20,6 +20,8 @@ This repository will display the programs of the pyCoffee sessions held at ESO c
 find the material for each session (if any material is given by the person presenting). You can also find the
 material of the ESOpy workshop.
 
+This repository is not officially endorsed by ESO.
+
 
 Team
 ====
