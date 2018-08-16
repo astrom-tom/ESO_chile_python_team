@@ -101,7 +101,7 @@ html_static_path = ['_static']
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
-html_logo = "pics/eso_python.png"
+html_logo = "pics/eso_python_2.png"
 
 
 # Output file base name for HTML help builder.
