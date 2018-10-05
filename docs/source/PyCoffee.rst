@@ -36,6 +36,4 @@ you can click on the link of material to download it.
 11-09-2018: Ridlo Wibowo on Rebound:  An open-source multi-purpose N-body code
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   
-  * I will introduce REBOUND,  a software package that can integrate the motion of particles under the influence of gravity. The particles can represent stars, planets, moons, ring, or dust particles. 
-REBOUND is very flexible and can be customized to accurately and efficiently to solve many problems in astrophysics/dynamics. I will present several examples and its features that may be useful for you. 
-It is written in C and has an easy-to-use Python interface.
+  * I will introduce REBOUND,  a software package that can integrate the motion of particles under the influence of gravity. The particles can represent stars, planets, moons, ring, or dust particles. REBOUND is very flexible and can be customized to accurately and efficiently to solve many problems in astrophysics/dynamics. I will present several examples and its features that may be useful for you. It is written in C and has an easy-to-use Python interface.
