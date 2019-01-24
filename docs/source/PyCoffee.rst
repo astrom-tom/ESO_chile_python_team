@@ -37,3 +37,9 @@ you can click on the link of material to download it.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   
   * I will introduce REBOUND,  a software package that can integrate the motion of particles under the influence of gravity. The particles can represent stars, planets, moons, ring, or dust particles. REBOUND is very flexible and can be customized to accurately and efficiently to solve many problems in astrophysics/dynamics. I will present several examples and its features that may be useful for you. It is written in C and has an easy-to-use Python interface.
+
+24-01-2018: Romain:  distribute your package!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+  * Distributing codes is becoming a necessity in science. It allows people to reproduce your results and make science more transparent. In that spirit I will present how to package a python module and how to distribute it in the python package repositories (testing and main). I will also talk briefly how to create a propoer documentation with the sphinx package and how to put it online (github and readthedocs).
+  * :download:`pycoffee_240119.tar.gz <./files/pycoffee_240119.tar.gz>`
