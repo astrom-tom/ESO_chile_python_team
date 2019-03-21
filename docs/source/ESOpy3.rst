@@ -42,7 +42,7 @@ You can find here the python installation document. Please come on the workshop 
 
 
 Program
-^^^^^^^
+=======
 
 
 * Day 01 Morning session (9h30 --> 13h,  Material: **SOON**
@@ -50,7 +50,6 @@ Program
     * 09:30 - 10:00: Introduction (Romain)
     * 10:00 - 11:00: Python language  Basics I  (Ivan)
     * 11:30 - 13:00: Python language  Basics II (Ivan)
-
 
 * Day 01 Afternoon session (14h-->17h40)
   
@@ -61,7 +60,7 @@ Program
 * Day 02 Morning session (9h --> 13h, Material: **SOON**
         
     * 09:00 - 10:30: Advanced Matplotlib manipulations (Frederic)
-    * 10:30 - 11:15: Classes in Python (Elyar)
+    * 10:30 - 11:15: Classes in Python: object-oriented programming (Elyar)
     * 11:30 - 12:15: Functional programming (Ivan)
     * 12:15 - 13:00: Command line interfaces in python (Romain)
 
@@ -70,14 +69,12 @@ Program
     * 14:00 - 16:00: Projects
     * 16:30 - 17:30: Projects
 
-
 * Day 03 Morning session (9h30 --> 13h, Material: **SOON**)
 
     * 09:00 - 10:30: Scientific coding with Numpy and Scipy (Romain)
     * 10:30 - 11:30: Fits file handling with Python (Alessandro)   
     * 11:30 - 12:15: Astro-coordinates and database query in Python (Frederic)
     * 12:13 - 13:00: How to code for Paranal (Romain) 
-
 
 * Day 03 Afternoon session (14h-->17h30)
   
