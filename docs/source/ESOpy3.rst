@@ -32,7 +32,7 @@ ESOpy3.0 will take place at ESO-Vitacura on the 15, 16 and 17 of April.
 
 
 Team
-^^^^
+====
 R. Thomas (Chair), E. Sedaghati, F. Vogt, I. Munoz, A. Razza
 
 Material
