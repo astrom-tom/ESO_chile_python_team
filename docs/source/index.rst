@@ -15,6 +15,7 @@ Contents
    Home <self>
    PyCoffee
    ESOpy2
+   ESOpy3
    Hackday
 
 This repository will display the programs of the pyCoffee sessions held at ESO chile in Santiago. You can also

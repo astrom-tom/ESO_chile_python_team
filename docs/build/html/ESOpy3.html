@@ -1,0 +1,315 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>ESOpy3.0 &mdash; ESO_chile_python_team 1.0 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Hackday’s" href="Hackday.html" />
+    <link rel="prev" title="ESOpy2.0" href="ESOpy2.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> ESO_chile_python_team
+          
+
+          
+            
+            <img src="_static/eso_python_2.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="index.html">Home</a></li>
+<li class="toctree-l1"><a class="reference internal" href="PyCoffee.html">PyCoffee’s</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ESOpy2.html">ESOpy2.0</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">ESOpy3.0</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#rationale">Rationale</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#why">WHY?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#what">WHAT?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#when-and-where">WHEN AND WHERE?</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#team">Team</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#material">Material</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#program">Program</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#projects">Projects</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Hackday.html">Hackday’s</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">ESO_chile_python_team</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>ESOpy3.0</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/ESOpy3.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="esopy3-0">
+<span id="esopy3"></span><h1>ESOpy3.0<a class="headerlink" href="#esopy3-0" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="rationale">
+<h2>Rationale<a class="headerlink" href="#rationale" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="why">
+<h3>WHY?<a class="headerlink" href="#why" title="Permalink to this headline">¶</a></h3>
+<p>The Python programming language is one of the most used programming language in the world. It is used on a daily basis by one of the biggest companies in the world like Google, Yahoo, IBM, Nokia, etc… In the science world the use of python is growing fast as well. The LHC is using python, NASA is using python (JWST pipelines are written primarily in python), ESO is becoming python-friendly (with SciOpsPy) and the E-ELT will make great use of it.
+In this spirit, the python team decided to organize a third edition of the Python Boot camp that had a great success a year ago. The ESOpy v3.0 aims at providing a (non-exhaustive) overview of the python language and its use in science and operations.</p>
+</div>
+<div class="section" id="what">
+<h3>WHAT?<a class="headerlink" href="#what" title="Permalink to this headline">¶</a></h3>
+<p>The V3.0 of the camp will take the same skeleton as last year and will last 3 days:
+The first day is aimed at beginners only. After a brief introduction of the language a serie of lectures and activities will be proposed to the participants in order to familiarize with the very basics of the language: Libraries, datatypes, data collections, FITS file handling, basic plotting, scripting, functions…. No requirements are needed, except having python (3.7) installed on your laptop.</p>
+<p>The second and third day are aimed at everybody willing to improve her/his python knowledge. Each day will be split into two parts. In the morning few lectures about libraries/topic will be given with direct hands-on exercises. The afternoons will be dedicated to small projects that will be developed by groups of trainees and presented at the end of the camp. Both science-oriented and Paranal-operation-oriented projects will be proposed.</p>
+</div>
+<div class="section" id="when-and-where">
+<h3>WHEN AND WHERE?<a class="headerlink" href="#when-and-where" title="Permalink to this headline">¶</a></h3>
+<p>ESOpy3.0 will take place at ESO-Vitacura on the 15, 16 and 17 of April.</p>
+</div>
+</div>
+<div class="section" id="team">
+<h2>Team<a class="headerlink" href="#team" title="Permalink to this headline">¶</a></h2>
+<ol class="upperalpha simple" start="18">
+<li>Thomas (Chair), E. Sedaghati, F. Vogt, I. Munoz, A. Razza</li>
+</ol>
+<div class="section" id="material">
+<h3>Material<a class="headerlink" href="#material" title="Permalink to this headline">¶</a></h3>
+<p>You can find here the python installation document. Please come on the workshop with everything installed. We will not have time to spend time installing &gt;30 python environment.</p>
+</div>
+</div>
+<div class="section" id="program">
+<h2>Program<a class="headerlink" href="#program" title="Permalink to this headline">¶</a></h2>
+<ul>
+<li><p class="first">Day 01 Morning session (9h30 –&gt; 13h,  Material: <strong>SOON</strong></p>
+<blockquote>
+<div><ul class="simple">
+<li>09:30 - 10:00: Introduction (Romain)</li>
+<li>10:00 - 11:00: Python language  Basics I  (Ivan)</li>
+<li>11:30 - 13:00: Python language  Basics II (Ivan)</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first">Day 01 Afternoon session (14h–&gt;17h40)</p>
+<blockquote>
+<div><ul class="simple">
+<li>14:00 - 15:00: Python language Basics III (Ivan)</li>
+<li>15:00 - 16:00: Reading/writing ascii files in python (Romain)</li>
+<li>16:00 - 17:00: Functions in Python (Elyar)</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first">Day 02 Morning session (9h –&gt; 13h, Material: <strong>SOON</strong></p>
+<blockquote>
+<div><ul class="simple">
+<li>09:00 - 10:30: Advanced Matplotlib manipulations (Frederic)</li>
+<li>10:30 - 11:15: Classes in Python (Elyar)</li>
+<li>11:30 - 12:15: Functional programming (Ivan)</li>
+<li>12:15 - 13:00: Command line interfaces in python (Romain)</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first">Day 02 Afternoon session (14h–&gt;17h30)</p>
+<blockquote>
+<div><ul class="simple">
+<li>14:00 - 16:00: Projects</li>
+<li>16:30 - 17:30: Projects</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first">Day 03 Morning session (9h30 –&gt; 13h, Material: <strong>SOON</strong>)</p>
+<blockquote>
+<div><ul class="simple">
+<li>09:00 - 10:30: Scientific coding with Numpy and Scipy (Romain)</li>
+<li>10:30 - 11:30: Fits file handling with Python (Alessandro)</li>
+<li>11:30 - 12:15: Astro-coordinates and database query in Python (Frederic)</li>
+<li>12:13 - 13:00: How to code for Paranal (Romain)</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first">Day 03 Afternoon session (14h–&gt;17h30)</p>
+<blockquote>
+<div><ul class="simple">
+<li>14:00 - 16:00: Projects</li>
+<li>16:30 - 17:00: Projects</li>
+<li>17:00 - 17:30: Short presentation (5min) with a summary of each project</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="projects">
+<h2>Projects<a class="headerlink" href="#projects" title="Permalink to this headline">¶</a></h2>
+<p>** SOON **</p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="Hackday.html" class="btn btn-neutral float-right" title="Hackday’s" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="ESOpy2.html" class="btn btn-neutral float-left" title="ESOpy2.0" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2018, R. Thomas
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
