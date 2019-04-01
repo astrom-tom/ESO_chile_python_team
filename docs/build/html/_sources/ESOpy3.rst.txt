@@ -55,14 +55,15 @@ Program
   
     * 14:00 - 15:00: Python language Basics III (Ivan)
     * 15:00 - 16:00: Reading/writing ascii files in python (Romain)
-    * 16:00 - 17:00: Functions in Python (Elyar)
+    * 16:20 - 17:15: Functions in Python (Elyar)
+    * 17:15 - 18:00: Numpy: Introduction to the numpy array (Romain)
 
 * Day 02 Morning session (9h --> 13h, Material: **SOON**
         
-    * 09:00 - 10:30: Advanced Matplotlib manipulations (Frederic)
-    * 10:30 - 11:15: Classes in Python: object-oriented programming (Elyar)
+    * 09:30 - 10:15: Fits file handling with Python (Alessandro)   
+    * 10:15 - 11:15: Classes in Python: object-oriented programming (Elyar)
     * 11:30 - 12:15: Functional programming (Ivan)
-    * 12:15 - 13:00: Command line interfaces in python (Romain)
+    * 12:15 - 13:00: Command line interfaces (CLI) in python (Romain)
 
 * Day 02 Afternoon session (14h-->17h30)
 
@@ -71,10 +72,10 @@ Program
 
 * Day 03 Morning session (9h30 --> 13h, Material: **SOON**)
 
-    * 09:00 - 10:30: Scientific coding with Numpy and Scipy (Romain)
-    * 10:30 - 11:30: Fits file handling with Python (Alessandro)   
-    * 11:30 - 12:15: Astro-coordinates and database query in Python (Frederic)
-    * 12:13 - 13:00: How to code for Paranal (Romain) 
+    * 09:00 - 10:15: Scientific coding with Scipy (Romain)
+    * 10:15 - 11:15: Astro-coordinates and database query in Python (Frederic)
+    * 11:30 - 12:15: Advanced Matplotlib manipulations (Frederic)
+    * 12:15 - 13:00: How to code for Paranal (Romain) 
 
 * Day 03 Afternoon session (14h-->17h30)
   
@@ -87,3 +88,9 @@ Projects
 ^^^^^^^^
 
 ** SOON **
+
+* dfits|fitsort: transforming the classic dfits|fitsort into python (CLI + fits file search) [R. Thomas]
+* catmatch: Matching catalogs in python (CLI + catalog searching) [R. Thomas]
+* Simple Extractor in python [A. Razza]   
+* Tapping into ADS with python [F. Vogt]
+
