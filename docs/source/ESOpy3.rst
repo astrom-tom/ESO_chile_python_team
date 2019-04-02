@@ -38,7 +38,7 @@ R. Thomas (Chair), E. Sedaghati, F. Vogt, I. Munoz, A. Razza
 Material
 ========
 
-You can find here the python installation document. Please come on the workshop with everything installed. We will not have time to spend time installing >30 python environment.
+You can find here the python installation document :download:`here <./files/ESOpy3_0_instal_v2.pdf>`. Please come on the workshop with everything installed. We will not have time to spend time installing >30 python environment.
 
 
 Program
