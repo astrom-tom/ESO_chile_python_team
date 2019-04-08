@@ -90,7 +90,8 @@ Projects
 ** SOON **
 
 * dfits|fitsort: transforming the classic dfits|fitsort into python (CLI + fits file search) [R. Thomas]
-* catmatch: Matching catalogs in python (CLI + catalog searching) [R. Thomas]
-* Simple Extractor in python [A. Razza]   
+* catmatch: Matching catalogs in python (CLI, numpy, standard library) [R. Thomas]
+* SExtractor in python [A. Razza]   
 * Tapping into ADS with python [F. Vogt]
+* specstack: create a program that stack spectra of galaxies (Numpy, CLI, matplotlib) [R. Thomas]
 
