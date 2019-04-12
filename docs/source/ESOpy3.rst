@@ -40,6 +40,8 @@ Material
 
 You can find here the python installation document :download:`here <./files/ESOpy3_0_instal_v2.pdf>`. Please come on the workshop with everything installed. We will not have time to spend time installing >30 python environment.
 
+Note: It seems that the dfitspy installation on Mac poses some problem with the libmagic library. The trick is to install the python-magic-bin package from pip: pip install python-magic-bin
+
 
 Program
 =======
