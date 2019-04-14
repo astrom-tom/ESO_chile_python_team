@@ -49,16 +49,16 @@ Program
 
 * Day 01 Morning session (9h30 --> 13h,  Material: **SOON**
   
-    * 09:30 - 10:00: Introduction (Romain)
+    * 09:30 - 10:00: Introduction (Romain) :download:`(Material) <./files/ESOpy3_Introduction_RThomas.pdf>`
     * 10:00 - 11:00: Python language  Basics I  (Ivan)
     * 11:30 - 13:00: Python language  Basics II (Ivan)
 
 * Day 01 Afternoon session (14h-->17h40)
   
     * 14:00 - 15:00: Python language Basics III (Ivan)
-    * 15:00 - 16:00: Reading/writing ascii files in python (Romain)
-    * 16:20 - 17:15: Functions in Python (Elyar)
-    * 17:15 - 18:00: Numpy: Introduction to the numpy array (Romain)
+    * 15:00 - 16:00: Reading/writing ascii files in python (Romain) :download:`(Material) <./files/ESOpy3_Reading_writing_Romain.ipynb>`
+    * 16:20 - 17:15: Functions in Python (Elyar)  :download:`(Material) <./files/ESOpy3_Functions_Elyar.ipynb>`
+    * 17:15 - 18:00: Numpy: Introduction to the numpy array (Romain) :download:`(Material) <./files/ESEpy3_Numpy_Romain.ipynb>`
 
 * Day 02 Morning session (9h --> 13h, Material: **SOON**
         
