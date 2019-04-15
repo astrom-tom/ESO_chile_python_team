@@ -65,7 +65,7 @@ Program
     * 09:30 - 10:15: Fits file handling with Python (Alessandro)   
     * 10:15 - 11:15: Classes in Python: object-oriented programming (Elyar)
     * 11:30 - 12:15: Functional programming (Ivan)
-    * 12:15 - 13:00: Command line interfaces (CLI) in python (Romain)
+    * 12:15 - 13:00: Command line interfaces (CLI) in python (Romain) :download:`(Material) <./files/ESO_parsing.tar.gz>`
 
 * Day 02 Afternoon session (14h-->17h30)
 
@@ -77,7 +77,8 @@ Program
     * 09:00 - 10:15: Scientific coding with Scipy (Romain)
     * 10:15 - 11:15: Astro-coordinates and database query in Python (Frederic)
     * 11:30 - 12:15: Advanced Matplotlib manipulations (Frederic)
-    * 12:15 - 13:00: How to code for Paranal (Romain) 
+    * 12:15 - 13:00: How to code for Paranal (Romain) :download:`(Material) <./files/Paranal_modul.tar.gz>`
+
 
 * Day 03 Afternoon session (14h-->17h30)
   
