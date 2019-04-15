@@ -50,7 +50,7 @@ Program
 * Day 01 Morning session (9h30 --> 13h,  Material: **SOON**
   
     * 09:30 - 10:00: Introduction (Romain) :download:`(Material) <./files/ESOpy3_Introduction_RThomas.pdf>`
-    * 10:00 - 11:00: Python language  Basics I  (Ivan)
+    * 10:00 - 11:00: Python language  Basics I  (Ivan) `(Material) <./files/Ivan_Basics.tar.gz>`
     * 11:30 - 13:00: Python language  Basics II (Ivan)
 
 * Day 01 Afternoon session (14h-->17h40)
