@@ -61,6 +61,8 @@ Program
     * 17:15 - 18:00: Numpy: Introduction to the numpy array (Romain) :download:`(Material) <./files/ESEpy3_Numpy_Romain.ipynb>`
 
 * Day 02 Morning session (9h --> 13h, Material: **SOON**
+
+  Images for the two first classes: https://drive.google.com/open?id=1GyZ2VszfpD02JcdteAySOvAl0zYb-xMG
         
     * 09:30 - 10:15: Fits file handling with Python (Alessandro)  :download:`(Material) <./files/ESOpy3_FitsFiles_Alessandro.ipynb>`
     * 10:15 - 11:15: Classes in Python: object-oriented programming (Elyar) :download:`(Material) <./files/Classes.ipynb>`
@@ -96,19 +98,19 @@ The description of all the project can be found here: :download:`(Material) <./f
 Please have a look and pick up your project in the following google form: https://docs.google.com/forms/d/e/1FAIpQLSeSmTx5w0e6nIM4be9puvH3hjRB7KaehzMj8jr9AW9JHt5vVw/viewform?usp=sf_link 
 
 
-* **P1: dfits|fitsort**: transforming the classic dfits|fitsort into python (CLI + fits file search) [R. Thomas] :download:`(Material) <./files/dfits.tar.gz>`
+* **P1: dfits|fitsort**: transforming the classic dfits|fitsort into python (CLI + fits file search) [Romain] :download:`(Material) <./files/dfits.tar.gz>`
 
-* **P2: catmatch**: Matching catalogs in python (CLI, numpy, standard library) [R. Thomas] :download:`(Material) <./files/catmatch.tar.gz>`
+* **P2: catmatch**: Matching catalogs in python (CLI, numpy, standard library) [Romain] :download:`(Material) <./files/catmatch.tar.gz>`
 
 
-* **P3: PSF building** [A. Razza] :download:`(Material) <./files/PSF_project.pdf>`
+* **P3: PSF building** [Alessandro] :download:`(Material) <./files/PSF_project.pdf>`
    
 
-* **P4: Tapping into ADS with python** [F. Vogt] :download:`(Material) <./files/astroquery_project_info.pdf>`
+* **P4: Tapping into ADS with python** [Frederic] :download:`(Material) <./files/astroquery_project_info.pdf>`
   
-* **P5: specstack**: create a program that stack spectra of galaxies (Numpy, CLI, matplotlib) [R. Thomas] :download:`(Material) <./files/Spectral_stack.tar.gz>`
+* **P5: specstack**: create a program that stack spectra of galaxies (Numpy, CLI, matplotlib) [Romain] :download:`(Material) <./files/Spectral_stack.tar.gz>`
 
-* **P6: Visibility plots**: Visibility of a celestial object given the position on earth, the object coordinates and the time of observation. :download:`(Material) <./files/VIS_plot_project.pdf>`
+* **P6: Visibility plots** [Elyar]: Visibility of a celestial object given the position on earth, the object coordinates and the time of observation. :download:`(Material) <./files/VIS_plot_project.pdf>`
 
-* **P7: All-sky images manipulation** : star registration, photometry and archive query :download:`(Material) <./files/APICAM_photometry_python_project.pdf>`
+* **P7: All-sky images manipulation** [Julien]: star registration, photometry and archive query :download:`(Material) <./files/APICAM_photometry_python_project.pdf>`
 
