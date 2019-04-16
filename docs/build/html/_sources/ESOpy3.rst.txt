@@ -61,9 +61,7 @@ Program
     * 17:15 - 18:00: Numpy: Introduction to the numpy array (Romain) :download:`(Material) <./files/ESEpy3_Numpy_Romain.ipynb>`
 
 * Day 02 Morning session (9h --> 13h, Material: **SOON**
-
-  Images for the two first classes: https://drive.google.com/open?id=1GyZ2VszfpD02JcdteAySOvAl0zYb-xMG
-        
+ 
     * 09:30 - 10:15: Fits file handling with Python (Alessandro)  :download:`(Material) <./files/ESOpy3_FitsFiles_Alessandro.ipynb>`
     * 10:15 - 11:15: Classes in Python: object-oriented programming (Elyar) :download:`(Material) <./files/Classes.ipynb>`
     * 11:30 - 12:15: Testing (Ivan) :download:`(Material) <./files/testing.tar.gz>`
@@ -98,7 +96,6 @@ Projects
 The description of all the project can be found here: :download:`(Material) <./files/ALL.pdf>`
 
 Please have a look and pick up your project in the following google form: https://docs.google.com/forms/d/e/1FAIpQLSeSmTx5w0e6nIM4be9puvH3hjRB7KaehzMj8jr9AW9JHt5vVw/viewform?usp=sf_link 
-
 
 * **P1: dfits|fitsort**: transforming the classic dfits|fitsort into python (CLI + fits file search) [Romain] :download:`(Material) <./files/dfits.tar.gz>`
 
