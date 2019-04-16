@@ -62,9 +62,10 @@ Program
 
 * Day 02 Morning session (9h --> 13h, Material: **SOON**
         
-    * 09:30 - 10:15: Fits file handling with Python (Alessandro)   
-    * 10:15 - 11:15: Classes in Python: object-oriented programming (Elyar)
-    * 11:30 - 12:15: Functional programming (Ivan)
+    * 09:30 - 10:15: Fits file handling with Python (Alessandro)  :download:`(Material) <./files/ESOpy3_FitsFiles_Alessandro.ipynb>`
+    * 10:15 - 11:15: Classes in Python: object-oriented programming (Elyar) :download:`(Material) <./files/Classes.ipynb>`
+    * 11:30 - 12:15: Testing (Ivan) :download:`(Material) <./files/testing.tar.gz>`
+
     * 12:15 - 13:00: Command line interfaces (CLI) in python (Romain) :download:`(Material) <./files/ESO_parsing.tar.gz>`
 
 * Day 02 Afternoon session (14h-->17h30)
@@ -88,7 +89,7 @@ Program
 
 
 Projects
-^^^^^^^^
+========
 
 The description of all the project can be found here: :download:`(Material) <./files/ALL.pdf>`
 
