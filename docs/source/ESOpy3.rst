@@ -78,7 +78,7 @@ Program
 * Day 03 Morning session (9h30 --> 13h, Material: **SOON**)
 
     * 09:00 - 10:15: Command line interfaces (CLI) in python (Romain) :download:`(Material) <./files/ESO_parsing.tar.gz>`
-    * 10:15 - 11:15: Astro-coordinates and database query in Python (Frederic)
+    * 10:15 - 11:15: Astro-coordinates and database query in Python (Frederic) :download:`(Material) <./files/ESOpy3_FVo.zip>`
     * 11:30 - 12:15: Advanced Matplotlib manipulations (Frederic)
     * 12:15 - 13:00: How to code for Paranal (Romain) :download:`(Material) <./files/Paranal_modul.tar.gz>`
 
