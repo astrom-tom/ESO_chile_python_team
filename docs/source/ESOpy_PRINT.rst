@@ -36,7 +36,7 @@ R. Thomas (Chair), R. de Rosa, T. Berg, J. Hartke & C. Herenz
 Getting ready for the bootcamp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-You can find here the python installation document :download:`here <./files/ESOpy3_0_instal_v2.pdf>`. Please come on the workshop with everything installed. We will not have time to spend time installing >30 python environment.
+You can find here the python installation document :download:`here <./files/ESOpy3_0_instal_v2.pdf3e3r2>`. Please come on the workshop with everything installed. We will not have time to spend time installing >30 python environment.
 
 Any problem with the installation?
 
