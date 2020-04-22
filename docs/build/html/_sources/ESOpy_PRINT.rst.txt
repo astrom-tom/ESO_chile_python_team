@@ -49,7 +49,7 @@ Program
 * Day 01 Morning session (9h00 --> 12h45)
   
         * 09h00 - 09h45: Introduction to Python [Romain, :download:`Slides <./files/print/ESOpy4_PRINT_Intro_RTHOMAS.pdf>`]
-        * 09h45 - 10h30: From Scratch: Variables,  operations, built-in functions and errors [Romain]
+        * 09h45 - 10h30: From Scratch: Variables,  operations, built-in functions and errors [Romain, :download:`Material <./files/print/from_scratch_Romain_thomas.tar.gz>`]
         * 10h30 - 11h00: Working with strings [Robert]
         * 11h00 - 11h30  break 
         * 11h30 - 12h00  loops and conditional [Johanna]
