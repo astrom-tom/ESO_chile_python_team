@@ -61,6 +61,6 @@ Program
         * 09h45 - 10h30:  Functions in Python [Christian]
         * 10h30 - 11h00:  break
         * 11h00 - 11h30:  Plotting with Matplotlib [Johanna]
-        * 11h30 - 12h00:  Classes: object oriented programming [Trystyn]
+        * 11h30 - 12h00:  Classes: object oriented programming [Trystyn, :download:`notebook <./files/print/OhNoObjects.ipynb>`]
         * 12h00 - 12h30:  A quick tour of the Python Standard Library [Romain]
         * 12h30 - 12h45:  Wrap-up [Romain]
