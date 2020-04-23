@@ -36,7 +36,7 @@ R. Thomas (Chair), R. de Rosa, T. Berg, J. Hartke & C. Herenz
 Getting ready for the bootcamp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-You can find here the python installation document :download:`here <./files/ESOpy3_0_instal_v2.pdf3e3r2>`. Please come on the workshop with everything installed. We will not have time to spend time installing >30 python environment.
+You can find here the python installation document :download:`here <./files/print/PRINT_requirements.pdf>`. Please come on the workshop with everything installed. We will not have time to spend time installing >30 python environment.
 
 Any problem with the installation?
 
@@ -53,7 +53,7 @@ Program
         * 10h30 - 11h00: Working with strings [Robert]
         * 11h00 - 11h30  break 
         * 11h30 - 12h00  loops and conditional [Johanna]
-        * 12h00 - 12h45  Structures: List, Tuples and dictionaries [Trystyn]
+        * 12h00 - 12h45  Structures: List, Tuples and dictionaries [Trystyn, :download:`notebook <./files/print/Lists_Tuples_and_Dicts_Oh_My.ipynb>`]
 
 * Day 02 (09h00-->13h00)
 
