@@ -50,15 +50,15 @@ Program
   
         * 09h00 - 09h45: Introduction to Python [Romain, :download:`Slides <./files/print/ESOpy4_PRINT_Intro_RTHOMAS.pdf>`]
         * 09h45 - 10h30: From Scratch: Variables,  operations, built-in functions and errors [Romain, :download:`Material <./files/print/from_scratch_Romain_thomas.tar.gz>`]
-        * 10h30 - 11h00: Working with strings [Robert]
+        * 10h30 - 11h00: Working with strings [Robert, :download:`Material <./files/print/strings.tar.gz>`]
         * 11h00 - 11h30  break 
         * 11h30 - 12h00  loops and conditional [Johanna, :download:`Slides <./files/print/loops_conditionals.slides.pdf>`]
         * 12h00 - 12h45  Structures: List, Tuples and dictionaries [Trystyn, :download:`notebook <./files/print/Lists_Tuples_and_Dicts_Oh_My.ipynb>`]
 
 * Day 02 (09h00-->13h00)
 
-        * 09h00 - 09h45:  Working with files (text and fitsfile) [Robert]
-        * 09h45 - 10h30:  Functions in Python [Christian]
+        * 09h00 - 09h45:  Working with files (text and fitsfile) [Robert, :download:`Material <./files/print/files.tar.gz>`]
+        * 09h45 - 10h30:  Functions in Python [Christian, ]
         * 10h30 - 11h00:  break
         * 11h00 - 11h30:  Plotting with Matplotlib [Johanna, :download:`Slides <./files/print/matplotlib.slides.pdf>`]
         * 11h30 - 12h00:  Classes: object oriented programming [Trystyn, :download:`notebook <./files/print/OhNoObjects.ipynb>`]
