@@ -57,10 +57,10 @@ Program
 
 * Day 02 (09h00-->13h00)
 
-        * 09h00 - 09h45:  Working with files (text and fitsfile) [Robert, :download:`Material <./files/print/files.tar.gz>`]
-        * 09h45 - 10h30:  Functions in Python [Christian, http://www.sc.eso.org/~eherenz/pyfuncs_bc2020/]
-        * 10h30 - 11h00:  break
-        * 11h00 - 11h30:  Plotting with Matplotlib [Johanna, :download:`Material <./files/print/Johanna_matplotlib.tar.gz>`]
-        * 11h30 - 12h00:  Classes: object oriented programming [Trystyn, :download:`notebook <./files/print/OhNoObjects.ipynb>`]
-        * 12h00 - 12h30:  A quick tour of the Python Standard Library [Romain]
-        * 12h30 - 12h45:  Wrap-up [Romain]
+        * 11h00 - 11h45:  Working with files (text and fitsfile) [Robert, :download:`Material <./files/print/files.tar.gz>`]
+        * 11h45 - 12h30:  Functions in Python [Christian, http://www.sc.eso.org/~eherenz/pyfuncs_bc2020/]
+        * 12h30 - 13h00:  Plotting with Matplotlib [Johanna, :download:`Material <./files/print/Johanna_matplotlib.tar.gz>`]
+        * 13h00 - 14h00:  break
+        * 14h00 - 14h30:  Classes: object oriented programming [Trystyn, :download:`notebook <./files/print/OhNoObjects.ipynb>`]
+        * 14h30 - 15h00:  A quick tour of the Python Standard Library [Romain]
+        * 15h00 - 15h15:  Wrap-up [Romain]
