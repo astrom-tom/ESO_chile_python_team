@@ -62,5 +62,5 @@ Program
         * 12h30 - 13h00:  Plotting with Matplotlib [Johanna, :download:`Material <./files/print/Johanna_matplotlib.tar.gz>`]
         * 13h00 - 14h00:  break
         * 14h00 - 14h30:  Classes: object oriented programming [Trystyn, :download:`notebook <./files/print/OhNoObjects.ipynb>`]
-        * 14h30 - 15h00:  A quick tour of the Python Standard Library [Romain]
+        * 14h30 - 15h00:  A quick tour of the Python Standard Library [Romain :downlowd: `notebook <./files/print/A_quick_tour_of_the_standard_library.ipynb>`]
         * 15h00 - 15h15:  Wrap-up [Romain]
