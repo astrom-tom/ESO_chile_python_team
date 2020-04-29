@@ -52,14 +52,14 @@ Program
         * 09h45 - 10h30: From Scratch: Variables,  operations, built-in functions and errors [Romain, :download:`Material <./files/print/from_scratch_Romain_thomas.tar.gz>`]
         * 10h30 - 11h00: Working with strings [Robert, :download:`Material <./files/print/strings.tar.gz>`]
         * 11h00 - 11h30  break 
-        * 11h30 - 12h00  loops and conditional [Johanna, :download:`Slides <./files/print/loops_conditionals.slides.pdf>`]
+        * 11h30 - 12h00  loops and conditional [Johanna, :download:`Slides <./files/print/loops_conditionals.slides.pdf>`, :download:`Solutions to exercices <./files/print/loops+conditionals-solutions.ipynb>`]
         * 12h00 - 12h45  Structures: List, Tuples and dictionaries [Trystyn, :download:`notebook <./files/print/Lists_Tuples_and_Dicts_Oh_My.ipynb>`]
 
 * Day 02 (09h00-->13h00)
 
         * 11h00 - 11h45:  Working with files (text and fitsfile) [Robert, :download:`Material <./files/print/files.tar.gz>`]
         * 11h45 - 12h30:  Functions in Python [Christian, http://www.sc.eso.org/~eherenz/pyfuncs_bc2020/]
-        * 12h30 - 13h00:  Plotting with Matplotlib [Johanna, :download:`Material <./files/print/Johanna_matplotlib.tar.gz>`]
+        * 12h30 - 13h00:  Plotting with Matplotlib [Johanna, :download:`Material <./files/print/Johanna_matplotlib.tar.gz>`, :download:`SOlutions to exerciecs <./files/print/matplotlib-solutions.ipynb>`]
         * 13h00 - 14h00:  break
         * 14h00 - 14h30:  Classes: object oriented programming [Trystyn, :download:`notebook <./files/print/OhNoObjects.ipynb>`]
         * 14h30 - 15h00:  A quick tour of the Python Standard Library [Romain, :download:`material <./files/print/standard_library.tar.gz>`]
