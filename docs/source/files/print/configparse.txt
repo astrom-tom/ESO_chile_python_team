@@ -1,0 +1,10 @@
+[section1]
+element1 = 45
+element2 = 15
+
+[section2]
+string1 = 'Bootcamp'
+
+[section3]
+bool3 = True
+string2 = 'abc'
